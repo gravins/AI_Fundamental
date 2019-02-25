@@ -35,7 +35,7 @@ are:
 - etc...
 
 
-###Arc consistency
+**Arc consistency**
 
 A variable in a CSP is arc-consistent if every value in its domain satisfies the
 binary constraints on this variable. Arc consistency doesn’t guarantee a solution.
